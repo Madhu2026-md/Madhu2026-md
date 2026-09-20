@@ -3,7 +3,7 @@
 ### 🚀 B.Sc Computer Science Student | Aspiring Software Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Software+Developer;Python+%7C+Django+%7C+Machine+Learning;Learning%2C+Building+and+Growing+Every+Day+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Software+Developer;Python+%7C+Java+%7C+FullStack Development;Learning%2C+Building+and+Growing+Every+Day+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 💻 Passionate about **Software Development and Web Development**
 
-🐍 Interested in **Python, Django, Flask and Machine Learning**
+🐍 Interested in **Python, Java, C++ and Full Stack Development**
 
 🚀 Love building practical and user-friendly applications
 
